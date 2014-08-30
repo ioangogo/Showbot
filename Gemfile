@@ -6,6 +6,9 @@ gem 'tzinfo-data'
 gem 'i18n'
 gem 'rake'
 
+# antispam
+gem 'cinch-cooldown'
+
 # Backups
 gem 'backup'
 gem 'fog', '~> 1.9.0'
