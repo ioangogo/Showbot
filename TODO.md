@@ -6,7 +6,7 @@ Easy
 ---------
 * ~~Correctly parse html entities in the twitter plugin.~~ <sup>Done for 2.0</sup>
 * Clean up the stdout output to make it more readable.
-* Add a !linuxgames to get a count of the number of linux games available on steam either dynamically via the storefront API or by perhaps using https://github.com/SteamDatabase/SteamLinux
+* Add a !linuxgames to get a count of the number of linux games available on steam either dynamically via the storefront API or by perhaps using https://github.com/SteamDatabase/SteamLinux ^working on a cashe for the html page
 
 Moderate
 ---------
@@ -20,7 +20,7 @@ Moderate
 Time Consuming
 ------------------
 
-* ~~Update to work with ruby 2.x~~ <sup>Done for 2.0</sup>
+* ~~Update to work with ruby 2.x~~ ^Done for 2.0
 * Write a small web frontend with user accounts to control data.json and and/remove from shows.json
 * Convert schedule system to using the gdata API for reading calendars rather than scraping ics with ri_cal
 * Convert the twitter module to the streaming API instead of polling
