@@ -3,7 +3,7 @@ require 'open-uri'
 
 module Cinch
   module Plugins
-    class Suggestions
+    class Linuxgames
       include Cinch::Plugin
 
       match "linuxgames",        :method => :command_ammount        # !help suggest
